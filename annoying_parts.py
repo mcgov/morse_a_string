@@ -1,4 +1,4 @@
-#functions to write annoying repetetive parts
+#functions to write annoying repetitive parts
 
 def write_switch_function():
     for i in 'abcdefghijklmnopqrstuvwxyz':
